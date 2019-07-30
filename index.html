@@ -421,6 +421,16 @@ Dăm ba cái Hát tê mờ lờ có gì trong này đâu mà xem  -->
     <script defer="defer" async="async" src="OrCV_files/dist.js"></script>
 </body>
 <footer>
-    <h4 style="text-align: center;"> <̷/̷> with ❤ in HCM. © 2019 by Will</h4></footer>
-
+    <h4 style="text-align: center;" id='footerWelcome'></h4></footer>
+    <script>
+      function welcome(element, message) {
+        element.innerHTML = message;
+      }
+      document.ready = function () {
+        const elm = document.getElementById('footerWelcome');
+        const da = new Date();
+        const message = '&lt;̷/̷&gt; with ❤ in HCM. © ' + da.getFullYear() + ' by Will';
+        welcome(elm, message);
+      }
+    </script>
 </html>
