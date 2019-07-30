@@ -1,32 +1,23 @@
 # Allerwill Lee CV
-# __________________________________________________________________________
-#<></><></><></><></><></><></><></><></><></><></><></><></><></><></><></>
-#
-  \ \                / /          | |  | |
-   \ \    / /\ \    / /         	| |  | |
-    \ \  / /  \ \  / /	 | | | |	| |  | |
-     \ \/ /    \ \/ /	   | | | |  | |  | |
+# __		      __	 _    _
+  \ \      ____      / /	| |  | |
+   \ \    / /\ \    / /  _   _	| |  | |
+    \ \  / /  \ \  / /	| | | |	| |  | |
+     \_\/_/    \_\/_/	|_| |_|	|_|  |_|
 
+	 _	   
+	| |	     _____
+	| |	    /  ___\
+	| |	   /  _____\
+	| |____	  /  /_______
+	|______|  \_________/
 
-	| |	      _____
-	| |	     ||     \
-  | |	     ||_____
-	| |____  ||
-	|________|\______/
-
-- Click on the left Navigation bar button to show the items below:
+Click on the left Navigation bar button to show the items below:
 
 									+ Home
 									+ About
 									+ Experiences
 									+ Education
 
-- Click on 'Home' to "Back to top"
-
-
-- Click on download button to download my CV file
-
-
-
-© 2019
-</> with all the <3 in the world by Will
+*** Note: Click on 'Home' to "Back to top"
+Also, you can download my CV file by the download button.
